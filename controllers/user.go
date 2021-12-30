@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/OctopusLian/guess/models"
+	"guess/models"
 
 	"github.com/astaxie/beego"
 )
