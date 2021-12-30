@@ -1,0 +1,1 @@
+/home/neo/Code/go/src/github.com/OctopusLian/guess/views/user/show.tpl
